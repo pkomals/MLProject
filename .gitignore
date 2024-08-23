@@ -3,3 +3,16 @@
 *.log
 *.sql
 *.sqlite
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/git 
+eggs/
+.eggs/
+*.egg-info/
+*.egg

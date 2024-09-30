@@ -5,7 +5,7 @@
 *.sqlite
 
 # Environments
-.artifact
+#.artifact
 .env
 .venv
 env/
